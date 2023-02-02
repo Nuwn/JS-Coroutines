@@ -1,0 +1,20 @@
+{
+  "name": "coroutines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index",
+  "type": "module",
+  "types": "dist",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "coroutines"
+  ],
+  "author": "Patric Keisala",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "files": ["dist", "src"]
+}
